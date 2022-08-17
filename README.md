@@ -4,10 +4,7 @@ My name is Lucas Montes, born in Rio de Janeiro, Brazil. Moved by the power of c
 
 In these times, dedicating myself to the study of frontend and backend technologies, besides the study of Python.
 
-<div>
-  <a href="https://github.com/lucasmontes10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmontes10&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
